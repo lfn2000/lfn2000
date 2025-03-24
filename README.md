@@ -1,16 +1,16 @@
 ## Hi there 👋
+Hi! I'm LI FANGNING, a student in the Framework-Based Software Design and Development course. 
+I'm a software engineering student and reasearcher and i am exploring new knowledge about link prediction.In this course, I want to understand and learn how to use more advanced frameworks.
 
-<!--
-**lfn2000/lfn2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Image](image.jpg)  <!-- Link to the uploaded image -->
 
-Here are some ideas to get you started:
+Languages ​​I have learned:
+JAVA Python C C++ JAVASCRIPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks I have learned:
+Apache Spark Apache Hadoop Spring boot
+
+## GitHub Profile
+
+You can view my personalized GitHub profile (https://github.com/lfn2000)
+
